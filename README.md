@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/responsive-github-user-search-app-made-with-react-and-tailwind-QVBwG4RxHk)
+- Live Site URL: [netlify](https://tranquil-seahorse-3aac90.netlify.app/)
 
 ### Built with
 
